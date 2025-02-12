@@ -1,8 +1,8 @@
-### Wikipedia de Repositórios para o GitHub
+##### Wikipedia de Repositórios para o GitHub
 Visão Geral do Projeto
 A Wikipedia de Repositórios para o GitHub é uma plataforma colaborativa que oferece uma base de conhecimento abrangente sobre repositórios de código aberto no GitHub. Este projeto tem como objetivo centralizar informações importantes, fornecer análises detalhadas e ajudar a comunidade de desenvolvedores a descobrir, colaborar e contribuir para projetos de código aberto.
 
-Objetivos Principais
+###Objetivos Principais
 Centralização de Informações: Reunir dados cruciais de diversos repositórios GitHub em um único local.
 
 Facilitar a Colaboração: Ajudar desenvolvedores a encontrar projetos relevantes para contribuir.
@@ -11,7 +11,7 @@ Aprimorar a Documentação: Oferecer tutoriais, guias e exemplos de uso dos repo
 
 Análises Detalhadas: Fornecer estatísticas e métricas de desempenho dos repositórios.
 
-Funcionalidades
+###Funcionalidades
 Página de Repositório: Cada repositório terá uma página dedicada com informações detalhadas, como descrição, linguagem de programação, autor, contribuintes, issues abertas e pull requests.
 
 Sistema de Busca: Uma ferramenta de busca poderosa para encontrar repositórios por nome, descrição, tags e linguagem.
